@@ -1,0 +1,11 @@
+{
+  "username": "",
+  "password": "",
+  "login_url": "https://www.linkedin.com/login?fromSignIn",
+  "preserve_csv_file": "Y",
+  "chromedriver_path": "/Users/mac/WorkSpace/PythonWorkSpace/chromedriver",
+  "headless_mode": "N",
+  "retry_count" : 1
+}
+
+
